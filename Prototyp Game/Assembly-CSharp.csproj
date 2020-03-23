@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ScaleDivider.cs" />
-    <Compile Include="Assets\Scripts\ScrollBackgroundScript.cs" />
+    <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerScript.cs" />
+    <Compile Include="Assets\Scripts\ScrollScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/Users/Max/Desktop/UnityGame/Prototyp Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
